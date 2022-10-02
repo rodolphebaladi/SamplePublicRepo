@@ -33,6 +33,24 @@
       "message": "Seems like a good README file!",
       "revId": "497bed41d1f5ca75deab5e31fb874a849d4d82f1",
       "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "849fceea_4a03001f",
+        "filename": "README.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 2,
+      "author": {
+        "id": 1020556
+      },
+      "writtenOn": "2022-10-02T16:34:17Z",
+      "side": 1,
+      "message": "Can you add another line to the README, please?",
+      "parentUuid": "f16a46f4_d6ef3784",
+      "revId": "497bed41d1f5ca75deab5e31fb874a849d4d82f1",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735"
     }
   ]
 }
